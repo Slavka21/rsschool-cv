@@ -1,2 +1,2 @@
 # rsschool-cv
-CV#1. Markdown &amp; Git
+https://slavka21.github.io/rsschool-cv/cv01~
