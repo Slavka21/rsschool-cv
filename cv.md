@@ -4,7 +4,7 @@
  __Phone:__ +48792409731 <br>
  __E-mail:__ slavakononenko66@gmail.com <br>
  __GitHub:__ [slavka21](https://github.com/Slavka21)<br>
- __Telegram:__ [Slavka](https://t.me/_Slavka_)<br> 
+ __Telegram:__ [Slavka](https://t.me/Slavka_K03)<br> 
  __LinkedIn__ [Viacheslav Kononenko](https://www.linkedin.com/in/viacheslav-kononenko-96a869228/)<br>
 __Discord__ Mr Ivasik#6350 (@Slavka21) 
 
