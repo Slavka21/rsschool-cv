@@ -1,0 +1,21 @@
+.header{
+  background-color: white;
+  position: relative;
+  height: 217px;
+  width: 100%;
+  display: flex; 
+  justify-content: space-around;
+  align-content: center;
+
+}
+.titleinfo{
+  flex-direction: column;
+}
+
+
+.main {
+  background-color: red;
+} 
+.footer {
+  background-color: yellow;
+}
