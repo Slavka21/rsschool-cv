@@ -1,0 +1,41 @@
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  }
+
+.header{
+  background-color: white;
+  height: 217px;
+  width: 100%;
+  display: flex; 
+  justify-content: space-around;
+  align-content: center;
+}
+.titleinfo{
+  flex-direction: column;
+}
+
+
+.main {
+  padding: 5% 20% 5%;
+  position: relative;
+  height: 80%;
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}
+.section{
+  padding: 2% 20% 2%;
+}
+
+.footer {
+  height: 60px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
